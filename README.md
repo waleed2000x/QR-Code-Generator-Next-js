@@ -28,7 +28,7 @@
 
 3. Enter the link you want to convert into a QR code in the provided input field.
 
-4. Optionally, specify a name for the QR code.
+4. Specify a name for the QR code.
 
 5. Select the desired size from the dropdown menu.
 
@@ -43,5 +43,4 @@
 Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## License
-
-[Insert license information here]
+---------- Info Soon ----------
