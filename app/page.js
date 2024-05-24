@@ -115,7 +115,7 @@ export default function Home() {
                     Select the size of the image you want to generate
                   </SelectLabel>
                   <SelectItem value="small">Small</SelectItem>
-                  <SelectItem value="medium">Medium (recommended)</SelectItem>
+                  <SelectItem value="medium">Medium (👑recommended)</SelectItem>
                   <SelectItem value="large">Large</SelectItem>
                   <SelectItem value="xl">X Large</SelectItem>
                   <SelectItem value="xxl">XX Large</SelectItem>
