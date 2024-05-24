@@ -1,3 +1,7 @@
+## Clone the repo
+
+        git clone https://github.com/waleed2000x/QR-Code-Generator-Next-js/edit/main/README.md
+
 ## Installation
 
 1. Navigate into the project directory:
