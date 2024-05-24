@@ -1,3 +1,7 @@
+# QR Code Generator
+
+![QR Code Generator](/public/Project.png)
+
 ## Clone the Repository
 
     git clone https://github.com/waleed2000x/QR-Code-Generator-Next-js/edit/main/README.md
@@ -6,23 +10,23 @@
 
 1. Navigate into the project directory:
 
-    ```bash
-    cd qr-code-generator
-    ```
+   ```bash
+   cd qr-code-generator
+   ```
 
 2. Install dependencies:
 
-    ```bash
-    npm install
-    ```
+   ```bash
+   npm install
+   ```
 
 ## Usage
 
 1. Start the development server:
 
-    ```bash
-    npm run dev
-    ```
+   ```bash
+   npm run dev
+   ```
 
 2. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000).
 
@@ -43,4 +47,5 @@
 Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## License
+
 ---------- Info Soon ----------
