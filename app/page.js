@@ -64,6 +64,7 @@ export default function Home() {
     downloadLink.href = imageUrl;
     downloadLink.download = name || "qrcode";
     downloadLink.click();
+    toast("Image download Successful!");
   };
 
   useEffect(() => {
@@ -99,7 +100,10 @@ export default function Home() {
           <div className="select">
             {/* <Label>Select the size of the image you want to generate</Label> */}
             <Select
-              onValueChange={(value) => setSelectedSize(value)}
+              onValueChange={(value) => {
+                setSelectedSize(value);
+                toast("Image size changed");
+              }}
               value={selectedSize}
               defaultValue="small"
             >
