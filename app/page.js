@@ -59,7 +59,7 @@ export default function Home() {
       toast("Please generate a QR code first");
       return;
     }
-
+    //
     const downloadLink = document.createElement("a");
     downloadLink.href = imageUrl;
     downloadLink.download = name || "qrcode";
