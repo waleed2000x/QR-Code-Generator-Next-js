@@ -1,4 +1,4 @@
-## Clone the repo
+## Clone the Repository
 
     git clone https://github.com/waleed2000x/QR-Code-Generator-Next-js/edit/main/README.md
 
