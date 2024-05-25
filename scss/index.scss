@@ -62,3 +62,9 @@ main {
     width: 50%;
   }
 }
+
+@media screen and (max-width: 800px) {
+  main {
+    flex-direction: column;
+  }
+}

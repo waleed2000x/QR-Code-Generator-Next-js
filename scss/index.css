@@ -61,4 +61,10 @@ main .right {
   align-items: center;
   height: 100%;
   width: 50%;
+}
+
+@media screen and (max-width: 800px) {
+  main {
+    flex-direction: column;
+  }
 }/*# sourceMappingURL=index.css.map */
