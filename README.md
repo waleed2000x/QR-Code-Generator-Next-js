@@ -11,7 +11,7 @@
 1. Navigate into the project directory:
 
    ```bash
-   cd qr-code-generator
+   cd QR-Code-Generator-Next-js-main
    ```
 
 2. Install dependencies:
